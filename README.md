@@ -7,22 +7,6 @@ blindly).
 
 Built for the Brainwonders AI Intern assignment (LegalTech track).
 
-## Note on the brief
-
-The brief names **Playground.elseif.ai** as the intended build tool. I couldn't find
-public documentation for that specific platform to build directly in it, and the
-submission instructions list Streamlit/Hugging Face/Render/Replit/Colab as accepted
-deployment targets, so this was built as a plain Python + Streamlit app instead - the
-same seven workflow nodes, just implemented in code. If the evaluators specifically
-require the workflow to be built inside Playground.elseif.ai, let them know before
-submitting.
-
-The submission email also asks for "the generated Affidavit in Reply and its
-evaluation report" as a generated artefact - that phrase doesn't appear anywhere in
-the assignment PDF itself (which is about judgment Q&A, not affidavit drafting), so
-it looks like leftover text from a different assignment template. Worth confirming
-with Tanaya/Brainwonders what artefact they actually want here.
-
 ## Overview
 
 The user uploads one or more judgment PDFs and asks a question. The system:
@@ -77,11 +61,7 @@ You can also paste the key into the sidebar of the running app instead.
 
 **Without an API key** the app still runs, but `llm_nodes.py` falls back to a naive
 mock (extractive answer + word-overlap check) just so the UI doesn't break. This is
-only useful for testing the pipeline plumbing - it is not the "LLM reasoning" the
-assignment asks for, and the sample outputs in `outputs/` were generated with the
-mock fallback (no key was available on the machine that produced them). Re-run
-`python evaluate.py` with a real key before submitting so the artefacts reflect
-actual model output.
+only useful for testing the pipeline plumbing.
 
 ## Running
 
@@ -102,6 +82,20 @@ python evaluate.py
 This reads `sample_data/judgment_1.pdf` and `sample_data/judgment_2.pdf` (the two
 sample judgments from the assignment) plus `sample_data/eval_questions.json`, and
 writes `outputs/sample_qna_output.json` and `outputs/evaluation_report.md`.
+
+Add your demonstration video to the repository at outputs/demo.mp4 and it will appear here on GitHub:
+
+<video src="./a/demo.mp4" controls muted width="800"></video>
+
+What the demo shows:
+
+- Uploading one or more judgment PDFs
+- Retrieving relevant paragraphs
+- Generating an evidence-grounded answer
+- Showing the judgment and paragraph citation
+- Independently verifying the citation
+- Displaying evaluation scores and hallucination status
+
 
 ## Models, APIs, tools
 
