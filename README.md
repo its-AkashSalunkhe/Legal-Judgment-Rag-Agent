@@ -83,7 +83,6 @@ This reads `sample_data/judgment_1.pdf` and `sample_data/judgment_2.pdf` (the tw
 sample judgments from the assignment) plus `sample_data/eval_questions.json`, and
 writes `outputs/sample_qna_output.json` and `outputs/evaluation_report.md`.
 
-
 ![Demo Visual](./artifacts/demo.gif)
 
 What the demo shows:
