@@ -83,9 +83,8 @@ This reads `sample_data/judgment_1.pdf` and `sample_data/judgment_2.pdf` (the tw
 sample judgments from the assignment) plus `sample_data/eval_questions.json`, and
 writes `outputs/sample_qna_output.json` and `outputs/evaluation_report.md`.
 
-Add your demonstration video to the repository at outputs/demo.mp4 and it will appear here on GitHub:
 
-<video src="./a/demo.mp4" controls muted width="800"></video>
+![Demo Visual](./artifacts/demo.gif)
 
 What the demo shows:
 
