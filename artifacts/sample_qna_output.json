@@ -1,0 +1,174 @@
+[
+  {
+    "question": "Was the High Court functus officio in entertaining the application for rehearing the reference?",
+    "generated_answer": "We accordingly allow the appeal, set aside the order of the High\nCourt and quash the proceedings in case no. 2(2) of 1976 trial no. 285\nof 1976 pending in the court in Mr. S. S. P. Yadav, Executive Magistrate,\nSadar Patna.\n\n(1977) 1 Suprerne Court Cases 508\n(BEFoRE H. R. KHANNA AND V. R. KRISHNA Iver, JJ.)\nM/s. JAIPUR MINERAL DEVELOPMENT\n\nSYNDICATE, JAIPUR .. Appellant ;\nVersus\nTHE COMMISSIONER OF...",
+    "basis": "directly_stated",
+    "citations": [
+      {
+        "judgment": "Jaipur_Mineral_v_CIT",
+        "paragraph": "5"
+      }
+    ],
+    "retrieved_evidence": [
+      {
+        "judgment": "Jaipur_Mineral_v_CIT",
+        "paragraph": "5",
+        "score": 0.2746
+      },
+      {
+        "judgment": "Jaipur_Mineral_v_CIT",
+        "paragraph": "3",
+        "score": 0.2441
+      },
+      {
+        "judgment": "Jaipur_Mineral_v_CIT",
+        "paragraph": "5",
+        "score": 0.2277
+      },
+      {
+        "judgment": "Jaipur_Mineral_v_CIT",
+        "paragraph": "4",
+        "score": 0.2037
+      },
+      {
+        "judgment": "Jaipur_Mineral_v_CIT",
+        "paragraph": "6",
+        "score": 0.1271
+      }
+    ],
+    "citation_verification": "Supported",
+    "hallucination_flag": false,
+    "evidence_relevance_score": 98,
+    "answer_accuracy_score": 98,
+    "overall_evaluation_score": 98
+  },
+  {
+    "question": "What business was the assessee-appellant in Jaipur Mineral Development Syndicate carrying on?",
+    "generated_answer": "The assessee-appellant is carrying on business in soapstones. At\nthe instance of the appellant, the following two questions were referred to\nthe High Court by the tribunal under Section 66(1) of the Act:",
+    "basis": "directly_stated",
+    "citations": [
+      {
+        "judgment": "Jaipur_Mineral_v_CIT",
+        "paragraph": "2"
+      }
+    ],
+    "retrieved_evidence": [
+      {
+        "judgment": "Jaipur_Mineral_v_CIT",
+        "paragraph": "2",
+        "score": 0.3652
+      },
+      {
+        "judgment": "Jaipur_Mineral_v_CIT",
+        "paragraph": "5",
+        "score": 0.1804
+      },
+      {
+        "judgment": "Jaipur_Mineral_v_CIT",
+        "paragraph": "2",
+        "score": 0.0783
+      },
+      {
+        "judgment": "Jaipur_Mineral_v_CIT",
+        "paragraph": "3",
+        "score": 0.0741
+      },
+      {
+        "judgment": "Vasudev_Modi_v_Rajabhai",
+        "paragraph": "10",
+        "score": 0.0495
+      }
+    ],
+    "citation_verification": "Supported",
+    "hallucination_flag": false,
+    "evidence_relevance_score": 100,
+    "answer_accuracy_score": 100,
+    "overall_evaluation_score": 100
+  },
+  {
+    "question": "Can an executing court go behind a decree and question its validity on facts?",
+    "generated_answer": "We accordingly set aside the order of the High Court and remit\nthe case for consideration of the petition under Section 417(3) filed by\nBhimappa.\n\n1970(1) Supreme Court Cases 670\n(From Gujarat)\n\n(BEFORE J. C. BHAH, K. 5. HEGDE AND A. N, GROVER, JJ-}\nVASUDEV DHANJIBHAI MODI oe\nVersus\nRAJABHAI ABDUL REHMAN AND OTHERS} Respondents,\nCivil Appeal No. 406 of 1967, decided on 18th March, 1970\n\nExecution\u2014...",
+    "basis": "directly_stated",
+    "citations": [
+      {
+        "judgment": "Vasudev_Modi_v_Rajabhai",
+        "paragraph": "21"
+      }
+    ],
+    "retrieved_evidence": [
+      {
+        "judgment": "Vasudev_Modi_v_Rajabhai",
+        "paragraph": "21",
+        "score": 0.3539
+      },
+      {
+        "judgment": "Vasudev_Modi_v_Rajabhai",
+        "paragraph": "9",
+        "score": 0.3512
+      },
+      {
+        "judgment": "Vasudev_Modi_v_Rajabhai",
+        "paragraph": "5",
+        "score": 0.3264
+      },
+      {
+        "judgment": "Vasudev_Modi_v_Rajabhai",
+        "paragraph": "8",
+        "score": 0.2488
+      },
+      {
+        "judgment": "Vasudev_Modi_v_Rajabhai",
+        "paragraph": "1",
+        "score": 0.2439
+      }
+    ],
+    "citation_verification": "Supported",
+    "hallucination_flag": false,
+    "evidence_relevance_score": 98,
+    "answer_accuracy_score": 98,
+    "overall_evaluation_score": 98
+  },
+  {
+    "question": "What relief did the Supreme Court grant in the Jaipur Mineral Development Syndicate case?",
+    "generated_answer": "We accordingly allow the appeal, set aside the order of the High\nCourt and quash the proceedings in case no. 2(2) of 1976 trial no. 285\nof 1976 pending in the court in Mr. S. S. P. Yadav, Executive Magistrate,\nSadar Patna.\n\n(1977) 1 Suprerne Court Cases 508\n(BEFoRE H. R. KHANNA AND V. R. KRISHNA Iver, JJ.)\nM/s. JAIPUR MINERAL DEVELOPMENT\n\nSYNDICATE, JAIPUR .. Appellant ;\nVersus\nTHE COMMISSIONER OF...",
+    "basis": "directly_stated",
+    "citations": [
+      {
+        "judgment": "Jaipur_Mineral_v_CIT",
+        "paragraph": "5"
+      }
+    ],
+    "retrieved_evidence": [
+      {
+        "judgment": "Jaipur_Mineral_v_CIT",
+        "paragraph": "5",
+        "score": 0.1908
+      },
+      {
+        "judgment": "Jaipur_Mineral_v_CIT",
+        "paragraph": "preamble",
+        "score": 0.1231
+      },
+      {
+        "judgment": "Vasudev_Modi_v_Rajabhai",
+        "paragraph": "preamble",
+        "score": 0.1134
+      },
+      {
+        "judgment": "Vasudev_Modi_v_Rajabhai",
+        "paragraph": "21",
+        "score": 0.0696
+      },
+      {
+        "judgment": "Vasudev_Modi_v_Rajabhai",
+        "paragraph": "8",
+        "score": 0.0655
+      }
+    ],
+    "citation_verification": "Supported",
+    "hallucination_flag": false,
+    "evidence_relevance_score": 98,
+    "answer_accuracy_score": 98,
+    "overall_evaluation_score": 98
+  }
+]

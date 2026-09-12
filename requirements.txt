@@ -1,0 +1,6 @@
+streamlit
+pdfplumber
+pdf2image
+pytesseract
+scikit-learn
+anthropic
